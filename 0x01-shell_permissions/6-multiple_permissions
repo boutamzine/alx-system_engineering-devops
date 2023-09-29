@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmo  114  hello
+sudo chmo  u+x , g+x , o+r  hello
