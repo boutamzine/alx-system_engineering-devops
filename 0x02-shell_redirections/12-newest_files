@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -atime 0 | ls -t | cut -f1 |head
